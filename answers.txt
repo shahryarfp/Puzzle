@@ -1,0 +1,21 @@
+a a a a a d b b c c 
+e i i i d d d b b c 
+e e i k k d h h b c 
+l e i k g g g h h c 
+l e k k g j g h f f 
+l l l j j j j f f f 
+
+a a a a a g g g k k 
+i i i b b g h g k l 
+c i b b h h h k k l 
+c i b e e h d l l l 
+c e e e j d d d f f 
+c c j j j j d f f f 
+
+a a a a a e e e k k 
+c c c c e e b b k l 
+c j j j j b b k k l 
+g g j h i b d l l l 
+g h h h i d d d f f 
+g g h i i i d f f f 
+
