@@ -12,7 +12,7 @@ sample answer:<br>
 The aim is to find all of the possible solutions to the problem.
 
 ## How to use:<br>
-Just simply need to run the code or .exe file<br>
+Just simply run the code or .exe file<br>
 The answers will be saved in answers.txt
 
 ## Result:
