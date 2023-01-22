@@ -16,4 +16,4 @@ Just simply run the code or .exe file<br>
 The answers will be saved in answers.txt
 
 ## Result:
-![](./Results.png)
+![](./Results.jpg)
